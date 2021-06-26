@@ -14,14 +14,21 @@ public class Quit : MonoBehaviour
    public void Resume()
    {
       flag = false;
+      back.SetActive(false);
    }
 
+   public void ExitWindow()
+   {
+      flag = true;
+      back.SetActive(true);
+   }
+   
    void Update()
    {
       if (Input.GetKeyDown(KeyCode.Escape))
       {
          flag = !flag;
-
+         
          if (flag)
          {
             back.SetActive(true);

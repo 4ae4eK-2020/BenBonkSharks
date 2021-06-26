@@ -19,7 +19,13 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/SavePlayerInfo.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/JsonManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/SceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Structs/SettingsStruct.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Info Management/SettingsManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/Quit.cs" />
+      <option value="$PROJECT_DIR$/Assets/Json/settings.json" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/ResolutionManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Info Management/JsonManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/SaveMusic.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uTTUOtdWjpnhCXYoE8MXHPYa9O" />
@@ -45,6 +51,9 @@
       <updated>1624688607408</updated>
       <workItem from="1624688622370" duration="229000" />
       <workItem from="1624688884669" duration="4794000" />
+      <workItem from="1624699283258" duration="6822000" />
+      <workItem from="1624706604487" duration="4484000" />
+      <workItem from="1624721015049" duration="821000" />
     </task>
     <servers />
   </component>

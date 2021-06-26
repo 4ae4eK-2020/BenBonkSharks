@@ -1054,10 +1054,13 @@
           </e>
           <e p="Scene Management" t="Include">
             <e p="Quit.cs" t="Include" />
+            <e p="ResolutionManager.cs" t="Include" />
+            <e p="SaveMusic.cs" t="Include" />
             <e p="SceneMenager.cs" t="Include" />
           </e>
           <e p="Structs" t="Include">
             <e p="PreservationStruct.cs" t="Include" />
+            <e p="SettingsStruct.cs" t="Include" />
           </e>
         </e>
         <e p="Tests" t="Include">
